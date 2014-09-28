@@ -1,29 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Krystina Shveda&#39;s Stories</title>
+    <description>This is a blog written by Krystina Shveda about journalism, life and tea.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 28 Sep 2014 11:25:41 +0100</pubDate>
-    <lastBuildDate>Sun, 28 Sep 2014 11:25:41 +0100</lastBuildDate>
+    <link>http://krystinashveda.com/</link>
+    <atom:link href="http://krystinashveda.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 28 Sep 2014 23:47:34 +0100</pubDate>
+    <lastBuildDate>Sun, 28 Sep 2014 23:47:34 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>“Hello World!”</title>
-        <description>&lt;p&gt;I would not be able to do a thing without Martin.&lt;/p&gt;
+        <title>Hello World!</title>
+        <description>&lt;p&gt;I would not be able to do a thing without Martin&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
+&lt;figure&gt;
+  &lt;img src=&quot;https://dl.dropboxusercontent.com/u/80627489/Resume.jpg&quot; alt=&quot;That is me&quot; width=&quot;500&quot; height=&quot;500&quot; /&gt;
+  &lt;figcaption&gt;That is me&lt;/figcaption&gt;
+&lt;/figure&gt;
 </description>
         <pubDate>Sun, 28 Sep 2014 12:20:05 +0100</pubDate>
-        <link>http://yourdomain.com/2014/09/28/my-first-post.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2014/09/28/my-first-post.html</guid>
+        <link>http://krystinashveda.com/hello-world</link>
+        <guid isPermaLink="true">http://krystinashveda.com/hello-world</guid>
         
         
       </item>
@@ -40,8 +38,8 @@
 
 </description>
         <pubDate>Sun, 28 Sep 2014 12:16:05 +0100</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2014/09/28/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/09/28/welcome-to-jekyll.html</guid>
+        <link>http://krystinashveda.com/jekyll/update/2014/09/28/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://krystinashveda.com/jekyll/update/2014/09/28/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
