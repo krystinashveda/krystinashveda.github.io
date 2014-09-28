@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  “Hello World!”
+title:  Hello World!
+permalink: hello-world
 date:   2014-09-28 11:20:05
 ---
 I would not be able to do a thing without Martin
