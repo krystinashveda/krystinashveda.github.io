@@ -4,8 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hello, World!
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+My name is Krystina Shveda. I am half Belarusian half Ukrainian, 26 at the moment, normally based in Minsk.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+My recent home however is City University London where I practice Interactive Journalism as a master student. Beforehand, I've worked in IT industry for 3.5 years doing anything from blogging to multimedia production to community management. But my deepest passion is Data Journalism and Visualisation. I also initiated a Hacks/Hackers Minsk community.
+
+This blog was created to accumulate my experiences, publications, creative experiments and ideas.
+
+<figure>
+  <img src="https://dl.dropboxusercontent.com/u/80627489/Resume.jpg" alt="That is me" width="500" height="500">
+  <figcaption>That is me</figcaption>
+</figure>
