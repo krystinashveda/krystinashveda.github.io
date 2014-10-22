@@ -38,4 +38,6 @@ A speech followed by a massive applause finished with the words of encouragement
 ![Jeremy Corbyn MP speeks to protesters](https://dl.dropboxusercontent.com/u/80627489/444.jpg)
 _Jeremy Corbyn MP speeks to protesters_
 
-However, the position of the UK government on this issues remains unclear today.
+The position of the UK government on this issues remains unclear today.
+
+Update: on Tuesday, October 21, The Independent reported that [British aircraft have been readied for flights over Syria in the war against Isis](http://www.independent.co.uk/news/world/middle-east/uk-drones-ready-to-attack-isis-in-syriaand-iraq-9807281.html).
