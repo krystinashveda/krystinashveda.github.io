@@ -13,7 +13,7 @@ Although the UK has joined International Coalition Against Islamic State and agr
 
 The protesters chant “Wake up UK, wake up UK, terrorists are ISIS”, asking the UK government to influence Turkey whose silence they regard as support for ISIS. Kurds living in Turkey also protested, which led to severe clashes with the police. Kurdish population is a sensitive issue for Turkey because Turkey, US and EU consider Kurdish PKK a terrorist party. Thousands of refugees from Kobane are stuck at the Syrian-Turkish boarder with no way either back or forth.
 
-![Kurdish protest chants](https://vimeo.com/109684832)
+<iframe src="//player.vimeo.com/video/109684832" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/109684832">VID 20141014 171444</a> from <a href="http://vimeo.com/user14398107">Krystsina Shveda</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 _Kurdish protest chants_
 
 Kurdish people also address civilian people in the UK in an attempt to raise their concern. “ISIS is growing and growing, today it is Kurdistan, tomorrow it can be London,” one of the protesters says. “Civilian people in Kobane are like in a prison, being attacked by ISIS from 3 sides and by Turkey on the other side. Women die, children have no food. So, I am here especially for Kobane, I only want everybody to hear our voice. Please, help us.”
