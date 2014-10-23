@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Kurdish protesters demand UK support in Kobane defence
-permalink: protesthome sample article
+title:  Kurdish protesters demand UK support in fight against ISIS 
+permalink: Kurdish protesters against ISIS
 date:   2014-10-19 14:50:05
 ---
-As the Syrian city of Kobane retains its 34th day of resistance backed by US’s weapon airdrops and air strikes, Kurdish population in the UK continues to march with protests in London, demanding proper help from the British government.
+As the Syrian city of Kobane retains its 34th day of Islamic State resistance backed by US’s weapon airdrops and air strikes, Kurdish population in the UK continues to march with protests in London, demanding proper help from the British government.
 
 ![Kurdish protesters at Parliament Square](https://dl.dropboxusercontent.com/u/80627489/222.jpg)
 _Kurdish protesters at Parliament Square on October 14. At the front are Kurdistan flag and the the flag of YPG_
