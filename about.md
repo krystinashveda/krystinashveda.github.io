@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Hello, World! My name is Krystina Shveda. I am half Belarusian half Ukrainian, 26 at the moment, normally based in Minsk.
 
-My recent home however is City University London where I practice Interactive Journalism as a master student. Beforehand, I've worked in IT industry for 3.5 years doing anything from blogging to multimedia production to community management. But my deepest passion is Data Journalism and Visualisation. I also initiated a Hacks/Hackers Minsk community.
+My recent home however is City University London where I practice interactive journalism as an MA student. Beforehand, I've worked in IT industry for 3.5 years doing anything from blogging to multimedia production to community management. But my professional passion is data journalism and visualisation. I also initiated Hacks/Hackers Minsk community.
 
 This blog was created to accumulate my experiences, publications, creative experiments and ideas.
 
