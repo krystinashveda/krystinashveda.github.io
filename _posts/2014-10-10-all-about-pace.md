@@ -1,14 +1,17 @@
 ---
 layout: post
-title:  Data Journalism lab 1 at City
-permalink: october-agenda-talks
+title:  It's all about the pace of learning
+permalink: all-about-pace
 date:   2014-10-10 11:20:05
 ---
-###It's all about the pace of learning
+###Data Journalism lab #1 at City University London
 
-I thought I knew something about Excel, but after our first data journalism workshop with John Burn-Murdoch, I think maybe not. 
+![John Burn-Murdoch teaching data](https://dl.dropboxusercontent.com/u/80627489/krystinashveda.com/IMG-20141024-WA0004.jpg)
+Photo by Ben Jackson
 
-This was a small compliment to John whom I happy to see as our teacher, but the whole drama around this for me is *the pace of learning*.
+I thought I knew something about Excel, but after our first data journalism workshop with John Burn-Murdoch, FT data journalist, I am not so sure. 
+
+This was a small compliment to John whom I happy to see as our teacher, but the whole drama around this experience for me was in *the pace of learning*.
 
 I considered myself quite a fast learner. Throughout my 3+ years at a huge software services corporation, I had to be constantly learning new approaches and tools. There was no other choice if I wanted to adopt myself for more and more complex projects I pulled myself into. Not a big deal to spend *a couple weeks* digging on the internet and learning by doing. The thing is that I was able to introduce innovation, whilst many others tended to stick to what they already knew.
 
