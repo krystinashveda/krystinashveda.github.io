@@ -6,7 +6,7 @@ date:   2014-10-19 14:50:05
 ---
 As the Syrian city of Kobane retains its 34th day of Islamic State resistance backed by US’s weapon airdrops and air strikes, Kurdish population in the UK continues to march with protests in London, demanding proper help from the British government.
 
-![Kurdish protesters at Parliament Square](https://dl.dropboxusercontent.com/u/80627489/222.jpg)
+![Kurdish protesters at Parliament Square](https://www.dropbox.com/s/mbt8o40o05htuq7/222.jpg?dl=0)
 _Kurdish protesters at Parliament Square on October 14. At the front are Kurdistan flag and the the flag of YPG_
 
 Although the UK has joined International Coalition Against Islamic State and agreed to conduct air strikes over Iraq who have requested international help, the Parliament is reluctant to allow military operations over the territory of Syria ruled by a hostile President Bashar al-Assad.
@@ -20,7 +20,7 @@ Kurdish people also address civilian people in the UK in an attempt to raise the
 
 A delegation of Kurds organised by the protesters arrange meetings with MPs across London to discuss the chances of convincing the Parliament to provide timely help. During one of the protest meeting at Parliament Square on October 14, the delegation talked to Jeremy Corbyn MP for North Islington who voted against joining anti-ISIS Coalition before ISIS strikes focused on Kobane.
 
-![Jeremy Corbyn MP](https://dl.dropboxusercontent.com/u/80627489/333.jpg)
+![Jeremy Corbyn MP](https://www.dropbox.com/s/c2hn2jsidm5xohd/333.jpg?dl=0)
 _Jeremy Corbyn MP at the Kurdish protest in London_
 
 <blockquote class="twitter-tweet" lang="en"><p>Hope MP&#39;s think before Parliamentary vote: Bombing will make the Isis problem worse | <a href="https://twitter.com/guardianletters">@guardianletters</a>&#10; <a href="http://t.co/KxvbGgp46a">http://t.co/KxvbGgp46a</a> via <a href="https://twitter.com/guardian">@guardian</a></p>&mdash; Jeremy Corbyn MP (@jeremycorbyn) <a href="https://twitter.com/jeremycorbyn/status/514703922968027137">September 24, 2014</a></blockquote>
@@ -35,7 +35,7 @@ In his open speech to protesters, Jeremy Corbyn said that he was trying to manip
 
 A speech followed by a massive applause finished with the words of encouragement stating that the common goal of political settlement in the whole Middle East region “must include the right of all the Kurdish people to their self-determination, to decide their own future within or without existing national boarders”.
 
-![Jeremy Corbyn MP speeks to protesters](https://dl.dropboxusercontent.com/u/80627489/444.jpg)
+![Jeremy Corbyn MP speeks to protesters](https://www.dropbox.com/s/jmjeplui66y466t/444.jpg?dl=0)
 _Jeremy Corbyn MP speeks to protesters_
 
 The position of the UK government on this issues remains unclear today.
