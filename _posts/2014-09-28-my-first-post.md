@@ -5,7 +5,7 @@ permalink: october-agenda-talks
 date:   2014-10-06 11:20:05
 ---
 ![free events in journalism](https://c1.staticflickr.com/9/8023/7155922307_b5fa835d48_b.jpg) 
-Photo by [Copyriot](https://www.flickr.com/photos/copyriot/)
+_Photo by [Copyriot](https://www.flickr.com/photos/copyriot/)_
 
 Free events an interactive journalist wants to attend in London
 
