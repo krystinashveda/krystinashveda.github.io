@@ -6,6 +6,8 @@ date:   2014-12-15 01:20:00
 ---
 *This is a sample article I wrote for Reuters*
 
+###Putin’s ‘free trade’ union may be next casualty of war in ‘New Russia’
+
 LONDON Mon Dec 15, 2014 5:00 pm GMT
 
 (Reuters) – Russia-centred free trade union may be undermined by a growing conflict between the main partners Russia and Belarus as Moscow accused its neighbour of re-exporting banned Western products.
