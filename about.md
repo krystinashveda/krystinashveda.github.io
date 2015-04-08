@@ -9,7 +9,9 @@ My recent home however is City University London where I practice interactive jo
 
 This blog was created to accumulate my experiences, publications, creative experiments and ideas.
 
-<figure>
-  <img src="https://dl.dropboxusercontent.com/u/80627489/Resume.jpg" alt="That is me" width="400" height="400">
-  <figcaption>That's me.</figcaption>
-</figure>
+<div class="juxtapose" data-startingposition="70" data-showlabels="false" data-showcredits="false" data-animate="true" data-mode="horizontal">
+<img src="https://dl.dropboxusercontent.com/u/80627489/Resume.jpg" data-label="Apr. 2005" data-credit="">
+<img src="https://dl.dropboxusercontent.com/u/80627489/krystinashveda.com/hurma.jpg" data-label="Nov. 2013" data-credit="">
+</div>
+
+<link rel="stylesheet" href="//s3.amazonaws.com/cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css"><script type="text/javascript" src="//s3.amazonaws.com/cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.js"></script>
