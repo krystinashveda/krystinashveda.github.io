@@ -29,7 +29,7 @@ Even if you know the tool perfectly and feel comfortable presenting, your **mate
 
 If you want your session to be useful, **make sure everything works beforehand** - have you send people the correct links? is the google doc shared with the public? have you sent invitation to everyone via multiple channels, so that at least one reaches them? do you have a quiet and well-connected space to stay during the webinar? does your mic work? etc.
 
-###4. One presenting, one troubleshooting. 
+###4. One presenting, one troubleshooting
 
 There will be very annoying technical problems like sending users the wrong link, screen not showing up, bad connection or anything else. It feels better to have a backup anyways. The other person may follow closely what you are saying and tell you quickly if what you've said was unclear. 
 
@@ -53,7 +53,7 @@ The class should move fast enough to give people new information all the time an
 
 It'll be fine!
 
-###For a coda, a quick remark on the target audience:
+###For a coda, a quick remark on the target audience
 
 Be practical, look closer. 
 
