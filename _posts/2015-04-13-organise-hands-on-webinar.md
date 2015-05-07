@@ -9,9 +9,9 @@ _Our [MA Interactive Journalism class](http://www.interhacktives.com) was assign
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Our <a href="https://twitter.com/Interhacktives">@Interhacktives</a> baby <a href="https://twitter.com/JonathanFrayman">@JonathanFrayman</a> lol. He taught <a href="https://twitter.com/hashtag/ddj?src=hash">#ddj</a> last night. Come see us on Thu! <a href="http://t.co/Su4GUI5vXc">http://t.co/Su4GUI5vXc</a> <a href="http://t.co/B0g0OXKQgz">pic.twitter.com/B0g0OXKQgz</a></p>&mdash; Krystina Shveda (@KrystinaShveda) <a href="https://twitter.com/KrystinaShveda/status/587928532342480897">April 14, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-_Here is a list of tips drawn from our either good or bad experience - but our own! – for those who want to share their knowledge with the world and organise a hands-on webinar without expenses, apart from time and commitment (do it!)._
+Here is a list of tips drawn from our either good or bad experience - but our own! – for those who want to share their knowledge with the world and organise a hands-on webinar without expenses, apart from time and commitment (do it!).
 
-#Tips for running a hands-on webinar
+##Tips for running a hands-on webinar
  
 ###1. No need for expensive webinar tools. 
 
@@ -37,7 +37,7 @@ NB: Best if both are **seated in one room**, although we managed to nail it remo
 
 ###5. Same person prepares docs and presents – or closely together
 
-It is much easier if the person who presents is also the one who have prepared the materials. In case this process was distributed, make sure you've looked at it together in detail, Ideally, all people who contributed different bits should be present, so that there is no need to call someone who has unique information in a rush.
+To avoid mess, make sure the person who presents is also the one who have prepared the materials. In case this process was distributed, make sure people looked at the materials together in detail. Ideally, **everyone who has contributed should be present**, so that there was no need to call someone who has unique information in a rush.
 
 ###6. Send the subscribers an email with key information
 
@@ -47,7 +47,7 @@ For instance, our presenter [Jon Frayman](https://twitter.com/JonathanFrayman) m
 
 ###7. Remember people spend their precious time with you
 
-The class should **move fast enough** to give people new information all the time and yet the teacher should **stay mindful and attentive to questions** people interrupt you with. If something doesn't work no matter what, move on with a minimum viable result. 
+The class should move fast enough to give people new information all the time and yet the teacher should **stay mindful and attentive to questions** people interrupt you with. If something doesn't work no matter what, move on with a minimum viable result. 
 
 **Use improvisation comedy, if nothing else works.**
 
