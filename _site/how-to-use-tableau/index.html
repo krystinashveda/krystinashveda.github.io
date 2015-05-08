@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>How to find peace with Tableau</title>
+    <meta name="description" content="This is a blog written by Krystina Shveda about journalism, life and tea.
+">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="http://krystinashveda.com/how-to-use-tableau">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="/">Krystina Shveda's Stories</a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div class="trigger">
+        
+          
+          <a class="page-link" href="/about/">About</a>
+          
+        
+          
+        
+          
+        
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">How to find peace with Tableau</h1>
+    <p class="post-meta">Mar 24, 2015</p>
+  </header>
+
+  <article class="post-content">
+    <p><strong>Tableau has become a golden standard among data journalists who cannot code (d3.js) – for its wide range of visualisation possibilities that do not require a high technical knowledge from its user. However, I’ve heard many complaints from colleagues that the tool is not intuitive and heard to start with. After having been asked by <a href="http://dev.by/">a Belarusian IT news site dev.by</a> to produce some visualisations for them, I spent about a month playing around with <a href="http://www.tableau.com/">Tableau 9.0</a>.  And so I share my conclusions and tips below.</strong></p>
+
+<p><img src="https://dl.dropboxusercontent.com/u/80627489/krystinashveda.com/Screen%20Shot%202015-05-08%20at%2013.40.33.png" alt="My map in Tableau" />
+<em>(A Tableau workbook with one of the infographics I produced for dev.by)</em></p>
+
+<h2 id="to-use-or-not-to-use">To use or not to use</h2>
+
+<p>Tableau is called a tool for <strong>visual analytics</strong> because  it has an enhanced <strong>filtering/pivoting mechanism</strong> in its core. So the way to conquer it is to know your data well. I tried - it’s not going to give you a sensible outcome if you just try to click on random dimensions hoping everything can correlate with everything magically, like in other data viz tools. </p>
+
+<blockquote>
+  <blockquote>
+    <p>Tableau will refuse to output even the simplest bar chart correctly if you don’t know what you are looking for. </p>
+  </blockquote>
+</blockquote>
+
+<p>Actually, for a simple graph with a single value I would recommend sticking to <a href="https://datawrapper.de/">Datawrapper</a> and the like - it’s a good quick-story tool with just enough interactivity to be better than Excel charts but simple enough to do magic (automated visualisations). I often use Datawrapper for initial visual analytics, aka to see the big picture.</p>
+
+<p>Say, you have a dataset of all crimes committed in London in 2014 and want to find out what crime types are the most common (i.e. see how many cases of each crime type happened in 2014). So easy, hah? Datawrapper will do a bar chart automatically. But in Tableau, you first need to figure out how you build a pivot table out of the dataset, because if you simply put “crime type” into columns and number of records into rows, it will show you a useless block with a number of total crimes on top. If you also add crime type to the MARK panel - e.g. in <em>Colour</em>, it will differentiate each crime type with colour - that’s better - but within the same dull block. And only after you change the Mark type into a bar chart will it give you the bar chart you were looking for. </p>
+
+<h2 id="the-dataset-behind-a-tableau-viz-is-king">The dataset behind a Tableau viz is king</h2>
+
+<p>With Tableau, you first need to <strong>have a table in mind</strong>. You’ll work out of spreadsheet anyway <em>(only Excel, no csv for the free Tableau Public)</em>. As the <a href="https://public.tableau.com/s/resources">intoductory Tableau tutorials</a> say, for the best result, each row in a dataset should represent <strong>a unique data unit</strong> (e.g. a person, a sold item, a crime case) and each column should add <strong>a new characteristic</strong> across all the units. Start your table in A1 and make sure there is nothing extra like explanatory text (everything will be treated as a value). It’s important to understand that Tableau treats data horizontally, row by row. No totals.</p>
+
+<p><img src="https://dl.dropboxusercontent.com/u/80627489/krystinashveda.com/Screen%20Shot%202015-05-08%20at%2014.07.07.png" alt="Data source" />
+<em>A typical data source</em></p>
+
+<p>If you have downloaded a good dataset, it will already be organised correctly. But sometimes you’ll need to <strong>build a table from scrath for visualisation</strong> (still in Excel), e.g. to compare values from different datasets when you received a number of FOI replies to the same question from different organisations or if you want to compare data for different years that is stored in separate tabs in Excel). It is crucial to give a descriptive name to each column - it should summarise what values are contained in it; so don’t name columns across the header row, like 1,2,3 or 2010,2011,2012 -&gt; School places 2010, School places 2011, School places 2011. </p>
+
+<p>It’s important because you will only see the names of the columns in a workbook and it’s helpful if the names correspond to what they contain. Remember that if your table doesn’t have a header row, Tableau will nominate each column a nominal number (F1, F2 … F13), which becomes quite a mess.</p>
+
+<h2 id="what-the-hell-are-those-panels">What the hell are those panels</h2>
+
+<p>Tableau divides data (imagine each column is a mini dataset) into two types:</p>
+
+<p><strong>Dimentions</strong> store categorical data, like yes/no/don’t know or heads/tails or tables/chairs/cupboards. You can compare the number of records for different categoties and visualise it by choosing various types of <em>Graphs</em> (“Show me”) and <em>Marks</em> (usually marks add an exta layer of data to the graph by differentiating via colour coding, shape, size, label or detail).</p>
+
+<p><img src="https://dl.dropboxusercontent.com/u/80627489/krystinashveda.com/Screen%20Shot%202015-05-08%20at%2014.41.23.png" alt="Types of data viz in Tableau" />
+<em>Types of data viz in Tableau</em></p>
+
+<p>Remember, blank cells aka “No response”/“Unknown” are also data - try to keep them in the final viz.</p>
+
+<p><strong>Measures</strong> are columns with numberical data. The calculations possibilities are wider. For example, you can do a beloved one scatter plot to compare two sets of data. </p>
+
+<script type="text/javascript" src="https://public.tableau.com/javascripts/api/viz_v1.js"></script>
+<div class="tableauPlaceholder" style="width: 604px; height: 719px;"><noscript><a href="#"><img alt="Dashboard 1 " src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;My&#47;MyTwitterfollowers&#47;Dashboard1&#47;1_rss.png" style="border: none" /></a></noscript><object class="tableauViz" width="604" height="719" style="display:none;"><param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" /> <param name="site_root" value="" /><param name="name" value="MyTwitterfollowers&#47;Dashboard1" /><param name="tabs" value="no" /><param name="toolbar" value="yes" /><param name="static_image" value="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;My&#47;MyTwitterfollowers&#47;Dashboard1&#47;1.png" /> <param name="animate_transition" value="yes" /><param name="display_static_image" value="yes" /><param name="display_spinner" value="yes" /><param name="display_overlay" value="yes" /><param name="display_count" value="yes" /><param name="showVizHome" value="no" /><param name="showTabs" value="y" /><param name="bootstrapWhenNotified" value="true" /></object></div>
+<p><em>An example of a simple scatter plot. Note this data viz has filter functionality. It’s very easy to add them  to a Dashboard (see below).</em></p>
+
+<p>But <strong>beware of false correlations</strong> – they don’t always (usually don’t) mean causation. (<a href="http://www.tylervigen.com/">Check this to have some laugh</a>, thanks to James Ball for showing us this).</p>
+
+<p>Oh, and do read this book, it’s amazing: <a href="http://books.google.co.uk/books/about/How_to_Lie_with_Statistics.html?id=5oSU5PepogEC">How To Lie With Statistics</a>, written by Darrell Huff in 1954 – all still true! (Thanks to Paul Bradshaw for referring to it and to City Library for putting it in the books display for me to find it).</p>
+
+<p>Back to Tableau, you can change the data types manually as well as copy or move columns between Dimensions and Measures.</p>
+
+<p>Note that as a default Tableau will show the distribution of data (COUNT or SUM), not some sort of summarisation. This will immediately show all the limitations of your data, e.g. a small sampling, so it is harder to lie with Tableau than with Excel (totals, averages, etc.). Yet, if you work with numerical data, you can play around with calculation types.</p>
+
+<p><img src="https://dl.dropboxusercontent.com/u/80627489/krystinashveda.com/Screen%20Shot%202015-05-08%20at%2015.07.19.png" alt="calculation types" />
+<em>Calculation types</em></p>
+
+<h2 id="make-it-pretty">Make it pretty</h2>
+
+<p>Visual analytics is a powerful thing indeed. Sometimes a graph or a set of graphs suddently start to make sense only after they’ve been refurbished to look pretty (if serious, it is very true for colour coding - keep on playing with colours to focus the attention on what is important).</p>
+
+<p>Use Filters in a worksheet to hide data that is not very relevant but distorts the main insights.</p>
+
+<p>Anyway, the best thing to make your visualisation look neat is to add it to a <em>Dashboard</em>.</p>
+
+<p>Dashboard is like a puzzle. As a default and for your convenience, all elemenets will be added as tiles next to each other, with no possibility to overlap (New objects: Tiled). Try adding <em>Blank</em> spaces if you feel like the dashboard is too crammed. Add text, images, hyperlinks – it sometimes makes sense to add those smaller objects as <em>Floating</em>, i.e. they can overlap the other.</p>
+
+<p>Define the needed size of a dashboard in the lower left panel called <em>Dashboard</em> (choose <em>Exactly</em> to be very precise; <em>Range</em> for mobile optimised version).</p>
+
+<p><img src="https://dl.dropboxusercontent.com/u/80627489/krystinashveda.com/Screen%20Shot%202015-05-08%20at%2015.20.40.png" alt="Typical dashboard" />
+<em>What you can do in a Dashboard</em></p>
+
+<p>You can add <em>Quick filters</em> to a dashboard to allow the user to change views by filtering by a certain category.</p>
+
+<h2 id="comparing-data-across-datasets">Comparing data across datasets</h2>
+
+<p>Say, you want to compare values for a certain characteristic (column) across a number of Excel tabs. For example, school marks of the same group in each grade. Make sure data units (rows) are the same/in the same quantity (=same number of records) in all tabs. Otherwise, you will lie with statistics.</p>
+
+<p>But if the units have been different each year (e.g. a random sample of people surveyed with the same question each year), you can only compare how the proportions of the asnwers changed, i.e. show all values in persentages rather than absolute numbers.</p>
+
+<p>You don’t always need to build a new table to compare data from different sources. Tableau has a <em>Story</em> functionality, so you can add worksheets and even dashboards from built from different datasources on one page, with a dedicated button for each.</p>
+
+<p><img src="https://dl.dropboxusercontent.com/u/80627489/krystinashveda.com/Screen%20Shot%202015-05-08%20at%2014.59.38.png" alt="Example of a story" />
+<em>Example of a story</em></p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Check what other have done in Tableau. In public galleries, you can download any workbook by any author and play around - isn’t it a great way to learn?</p>
+
+<p>Or, when you look at a beautiful Tableau viz, try to guess what columns in a dataset are being compared/correlated/illustrated. This will help you develop data thinking - what exactly you can visualise in your data.</p>
+
+<p><strong><a href="https://www.tableau.com/learn/whitepapers/tableau-visual-guidebook">This free Whitepaper written by Tableau is very very helpful in improving your processes and styling.</a></strong></p>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Krystina Shveda's Stories</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li>Krystina Shveda's Stories</li>
+          <li><a href="mailto:krystsinashveda@gmail.com">krystsinashveda@gmail.com</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+        <ul class="social-media-list">
+          
+          <li>
+            <a href="https://github.com/krystinashveda">
+              <span class="icon  icon--github">
+                <svg viewBox="0 0 16 16">
+                  <path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+                </svg>
+              </span>
+
+              <span class="username">krystinashveda</span>
+            </a>
+          </li>
+          
+
+          
+          <li>
+            <a href="https://twitter.com/krystinashveda">
+              <span class="icon  icon--twitter">
+                <svg viewBox="0 0 16 16">
+                  <path fill="#828282" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809
+                  c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27 c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767 c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206 C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271 c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/>
+                </svg>
+              </span>
+
+              <span class="username">krystinashveda</span>
+            </a>
+          </li>
+          
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-3">
+        <p class="text">This is a blog written by Krystina Shveda about journalism, life and tea.
+</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

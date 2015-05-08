@@ -6,153 +6,383 @@
 </description>
     <link>http://krystinashveda.com/</link>
     <atom:link href="http://krystinashveda.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 24 Oct 2014 19:27:02 +0100</pubDate>
-    <lastBuildDate>Fri, 24 Oct 2014 19:27:02 +0100</lastBuildDate>
+    <pubDate>Fri, 08 May 2015 16:40:30 +0100</pubDate>
+    <lastBuildDate>Fri, 08 May 2015 16:40:30 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Kurdish delegation demands UK&#39;s support in fighting ISIS</title>
-        <description>&lt;p&gt;As the Syrian city of Kobane keeps resisting the Islamic State’s attacks, a delegation of Kurdish protesters is meeting MPs across London demanding proper help from the British government.&lt;/p&gt;
+        <title>Visualising Drone Wars for the Bureau of Investigative Journalism</title>
+        <description>&lt;p&gt;&lt;em&gt;On 6-17 April, I’ve been on a work placement at the Bureau of Investigative Journalism. The legends says, the Bureau has never taken on board any other student but Investigative MA. But everything changed on one historic day in November 2014, when I, desperate, entered their office boldly and asked for a work placement (I can do data was my arguement). They were so shocked by this shamelessness that agreed.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/80627489/krystinashveda.com/Kurdish%20protests/333.jpg&quot; alt=&quot;Jeremy Corbyn MP&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I worked with &lt;a href=&quot;https://twitter.com/jackserle&quot;&gt;Jack Serie&lt;/a&gt; on Drone Wars data – an exclusive collection of information that is being gathered and updated for five years. Much has been already written based on these valuable datasets but only four major visualisations has been produced (in cooperation with other agencies). During my internship, I tried to provide a fresh digital outlook, which is generally in demands in TBIJ now, and suggested a number of visualisations.&lt;/p&gt;
 
-&lt;h4 id=&quot;jeremy-corbyn-the-mp-for-north-islington-to-lobby-helping-kurdish-kobane&quot;&gt;Jeremy Corbyn, the MP for North Islington, to lobby helping Kurdish Kobane&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;My visualisation of the nationalities of people killed during CIA drone attacks in Pakistan and Yemen &lt;a href=&quot;http://www.thebureauinvestigates.com/2015/05/07/counting-cost-us-drones-local-wars-killing-local-people/&quot;&gt;made it to the TBIJ website&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Although &lt;a href=&quot;http://uk.reuters.com/article/2014/09/26/us-syria-crisis-coalition-factbox-idUSKCN0HL2DL20140926&quot;&gt;the UK has joined International Coalition Against Islamic State&lt;/a&gt; and agreed to conduct air strikes over Iraq, the Parliament is reluctant to allow military operations over the territory of Syria, ruled by a hostile President Bashar al-Assad.&lt;/p&gt;
+&lt;p&gt;Here it is:&lt;/p&gt;
 
-&lt;p&gt;Jeremy Corbyn, who voted against joining anti-ISIS coalition before its strikes focused on Kobane, committed himself to lobbying support to the Kurdish city at the Parliament during his speech to Kurdish protesters at the Parliament Square on October 14.&lt;/p&gt;
+&lt;div class=&quot;juxtapose&quot; data-startingposition=&quot;50&quot; data-showlabels=&quot;true&quot; data-showcredits=&quot;true&quot; data-animate=&quot;true&quot; data-mode=&quot;horizontal&quot;&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/80627489/Pakistan_8.png&quot; data-label=&quot;Pakistan&quot; data-credit=&quot;&quot; /&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/80627489/Yemen_8.png&quot; data-label=&quot;Yemen&quot; data-credit=&quot;&quot; /&gt;
+&lt;/div&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;//s3.amazonaws.com/cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css&quot; /&gt;
 
-&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Hope MP&amp;#39;s think before Parliamentary vote: Bombing will make the Isis problem worse | &lt;a href=&quot;https://twitter.com/guardianletters&quot;&gt;@guardianletters&lt;/a&gt;&amp;#10; &lt;a href=&quot;http://t.co/KxvbGgp46a&quot;&gt;http://t.co/KxvbGgp46a&lt;/a&gt; via &lt;a href=&quot;https://twitter.com/guardian&quot;&gt;@guardian&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jeremy Corbyn MP (@jeremycorbyn) &lt;a href=&quot;https://twitter.com/jeremycorbyn/status/514703922968027137&quot;&gt;September 24, 2014&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;style&gt;
+.juxtapose .jx-control, .juxtapose .jx-controller { background: #323232; }
+.juxtapose .jx-arrow.jx-left { border-color: transparent #323232 transparent transparent; }
+.juxtapose .jx-arrow.jx-right { border-color: transparent transparent transparent #323232; }
+&lt;/style&gt;
 
-&lt;p&gt;The delegates demanded conducting air strikes against ISIS over Kobane, providing armoury to YPG (People’s Protection Units) guerilla fighters who defend the city and convincing Turkey to help Kobane.&lt;/p&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;//s3.amazonaws.com/cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.js&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;“ISIS is growing. Today it’s Kurdistan, tomorrow it can be London,” one of the protesters said. &lt;/p&gt;
+&lt;h3 id=&quot;a-story-in-brief&quot;&gt;A story in brief&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/80627489/krystinashveda.com/Kurdish%20protests/222.jpg&quot; alt=&quot;Kurdish protesters at Parliament Square&quot; /&gt;
-&lt;em&gt;Kurdish protesters at Parliament Square on October 14. At the front are Kurdistan flag and the flag of Kurdish guerilla fighters (YPG)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The map illustrates that the majority of the drone and air strike attacks were local population, despite the US officials’ claims that the highly accurate drone attacks are targeting only high profile al Qaeda fighters.&lt;/p&gt;
 
-&lt;h4 id=&quot;demand-to-convince-turkey-in-helping-kurds&quot;&gt;Demand to convince Turkey in helping Kurds&lt;/h4&gt;
+&lt;p&gt;CIA, backed by the US, has pictured their targets as international terrorists. Multinational origin of al Qaeda military men has also been proven by the Bureau of Investigative Journalism in-depth research of the strikes in Pakistan, Yemen and Somalia.&lt;/p&gt;
 
-&lt;p&gt;The protesters chanted “Wake up, UK! Wake up, UK! Turkey is for ISIS!”, asking the UK authorities to influence Turkey &lt;a href=&quot;http://www.theguardian.com/commentisfree/2014/oct/14/turkey-inaction-kobani-kurdish-peace-politics&quot;&gt;whose silence they regard as the support for ISIS&lt;/a&gt;. Kurdish population has been a sensitive issue for Turkey for decades, since the Kurds used to demand independence. Kurdistan Workers’ Party (PKK) is considered a terrorist body by Turkey, US and EU.&lt;/p&gt;
+&lt;p&gt;The latest investigation by the Bureau found that at least 1,379 of the 2,213 identified or partially identified individuals killed by drone attacks in Pakistan (62 per cent) were locals. Further 137 people have been described as Pashtun which is an ethnic group of tribal population living on the Pakistani and Afghan territories.&lt;/p&gt;
 
-&lt;iframe src=&quot;//player.vimeo.com/video/109684832&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;http://vimeo.com/109684832&quot;&gt;Kurdish protesters&#39; chants&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/user14398107&quot;&gt;Krystsina Shveda&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In Yemen, potentially 81 per cent of deaths were caused to local population who were unlikely terrorists.&lt;/p&gt;
 
-&lt;p&gt;“I am here especially for Kobane. Civilian people are like in a prison there, being attacked by ISIS from 3 sides and by Turkey on the other side. Women die, children have no food. Please, help us,” another protester begged.&lt;/p&gt;
+&lt;h3 id=&quot;my-idea-and-methodology&quot;&gt;My idea and methodology&lt;/h3&gt;
 
-&lt;h4 id=&quot;jeremy-corbyn-mp-to-push-demands-on-turkey&quot;&gt;Jeremy Corbyn MP to push demands on Turkey&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Data is being collected by the Bureau of Investigative Journalism since 2011. Naming the Dead project identified who were some of the victims, including their countries of origin.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I mapped the nationalities of victims for Pakistan and Yemen in CartoDB. The darker the area on the map is, the more people targeted by the US strikes originated from that country. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I used &lt;a href=&quot;http://juxtapose.knightlab.com&quot;&gt;Juxtapose.js tool&lt;/a&gt; developed by Knight Lab to get both maps in the same place. Since the tool can only work with static images, I had to sacrifice the interactivity and take screenshots of both maps with great accuracy. But the benefit is bigger – an easy visual comparison.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;In his speech to protesters, Corbyn said that he would try to manipulate in the Parliament that the threat to Kurdish people comes not only to from ISIS forces but also, even more importantly, from the Turkish government.&lt;/p&gt;
+&lt;h3 id=&quot;extras&quot;&gt;Extras&lt;/h3&gt;
 
-&lt;p&gt;“Since Turkey is a member of NATO and our very close ally, we expect the British government to be making demands on the Turkish government about humanitarian aid, safe corridors, the movement of refugees, practical support of the Kurdish people,” he stated.&lt;/p&gt;
+&lt;p&gt;Some victims in Pakistan (21 per cent) have been only described by a broader region of their origin – arab, central Asian, Western, etc. I combined this data with the data on particular nationalities (subjective clustering) and created a treemap in Tableau that confirms the prevalence of either Pakistani or Pashtun victims.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/80627489/krystinashveda.com/Kurdish%20protests/444.jpg&quot; alt=&quot;Jeremy Corbyn MP speeks to protesters&quot; /&gt;
-&lt;em&gt;Jeremy Corbyn MP speaks to protesters&lt;/em&gt;&lt;/p&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;https://public.tableau.com/javascripts/api/viz_v1.js&quot;&gt;&lt;/script&gt;
+&lt;div class=&quot;tableauPlaceholder&quot; style=&quot;width: 704px; height: 569px;&quot;&gt;&lt;noscript&gt;&lt;a href=&quot;#&quot;&gt;&lt;img alt=&quot;People from local tribes – 70% of US drone attack victims in Pakistan &quot; src=&quot;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;Dr&amp;#47;DroneattacksPakistan&amp;#47;Dashboard1&amp;#47;1_rss.png&quot; style=&quot;border: none&quot; /&gt;&lt;/a&gt;&lt;/noscript&gt;&lt;object class=&quot;tableauViz&quot; width=&quot;704&quot; height=&quot;569&quot; style=&quot;display:none;&quot;&gt;&lt;param name=&quot;host_url&quot; value=&quot;https%3A%2F%2Fpublic.tableau.com%2F&quot; /&gt; &lt;param name=&quot;site_root&quot; value=&quot;&quot; /&gt;&lt;param name=&quot;name&quot; value=&quot;DroneattacksPakistan&amp;#47;Dashboard1&quot; /&gt;&lt;param name=&quot;tabs&quot; value=&quot;no&quot; /&gt;&lt;param name=&quot;toolbar&quot; value=&quot;yes&quot; /&gt;&lt;param name=&quot;static_image&quot; value=&quot;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;Dr&amp;#47;DroneattacksPakistan&amp;#47;Dashboard1&amp;#47;1.png&quot; /&gt; &lt;param name=&quot;animate_transition&quot; value=&quot;yes&quot; /&gt;&lt;param name=&quot;display_static_image&quot; value=&quot;yes&quot; /&gt;&lt;param name=&quot;display_spinner&quot; value=&quot;yes&quot; /&gt;&lt;param name=&quot;display_overlay&quot; value=&quot;yes&quot; /&gt;&lt;param name=&quot;display_count&quot; value=&quot;yes&quot; /&gt;&lt;param name=&quot;showVizHome&quot; value=&quot;no&quot; /&gt;&lt;param name=&quot;showTabs&quot; value=&quot;y&quot; /&gt;&lt;param name=&quot;bootstrapWhenNotified&quot; value=&quot;true&quot; /&gt;&lt;/object&gt;&lt;/div&gt;
 
-&lt;p&gt;A 29-year-old Islington Councillor Aysegul Erdogan spoke to Corbyn on the side of the Kurdish delegation. “We know that Jeremy Corbyn was one of the MPs who said no to airstrikes in Iraq. But his approach to Kobane and our demands was different this time,” she said. According to Erdogan, MP Corbyn agreed to get answers from the Foreign and Commonwealth Office on how the UK could help defeating ISIS in Kobane.&lt;/p&gt;
+&lt;p&gt;I also suggested to highlight the story’s thesis by showing the Al Qaeda fighters killed in those countieres – the official targets of the US and CIA – were indeed mostly international and not locals. I produced a Tableau packed bubbles graph to show this. It wasn’t published however, because Jack has already made a story with a similar angle (about Al Qaeda fighters) recently.&lt;/p&gt;
 
-&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Our heart lies with &lt;a href=&quot;https://twitter.com/hashtag/Kobane?src=hash&quot;&gt;#Kobane&lt;/a&gt;&lt;/p&gt;&amp;mdash; Aysegul Erdogan (@aysemeleti) &lt;a href=&quot;https://twitter.com/aysemeleti/status/522176567880208384&quot;&gt;October 15, 2014&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;https://public.tableau.com/javascripts/api/viz_v1.js&quot;&gt;&lt;/script&gt;
+&lt;div class=&quot;tableauPlaceholder&quot; style=&quot;width: 704px; height: 619px;&quot;&gt;&lt;noscript&gt;&lt;a href=&quot;#&quot;&gt;&lt;img alt=&quot;Dashboard 1 &quot; src=&quot;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;Or&amp;#47;OriginsofAlQaedafighterskilledbyUSdroneattacksinPakistan&amp;#47;Dashboard1&amp;#47;1_rss.png&quot; style=&quot;border: none&quot; /&gt;&lt;/a&gt;&lt;/noscript&gt;&lt;object class=&quot;tableauViz&quot; width=&quot;704&quot; height=&quot;619&quot; style=&quot;display:none;&quot;&gt;&lt;param name=&quot;host_url&quot; value=&quot;https%3A%2F%2Fpublic.tableau.com%2F&quot; /&gt; &lt;param name=&quot;site_root&quot; value=&quot;&quot; /&gt;&lt;param name=&quot;name&quot; value=&quot;OriginsofAlQaedafighterskilledbyUSdroneattacksinPakistan&amp;#47;Dashboard1&quot; /&gt;&lt;param name=&quot;tabs&quot; value=&quot;no&quot; /&gt;&lt;param name=&quot;toolbar&quot; value=&quot;yes&quot; /&gt;&lt;param name=&quot;static_image&quot; value=&quot;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;Or&amp;#47;OriginsofAlQaedafighterskilledbyUSdroneattacksinPakistan&amp;#47;Dashboard1&amp;#47;1.png&quot; /&gt; &lt;param name=&quot;animate_transition&quot; value=&quot;yes&quot; /&gt;&lt;param name=&quot;display_static_image&quot; value=&quot;yes&quot; /&gt;&lt;param name=&quot;display_spinner&quot; value=&quot;yes&quot; /&gt;&lt;param name=&quot;display_overlay&quot; value=&quot;yes&quot; /&gt;&lt;param name=&quot;display_count&quot; value=&quot;yes&quot; /&gt;&lt;param name=&quot;showVizHome&quot; value=&quot;no&quot; /&gt;&lt;param name=&quot;showTabs&quot; value=&quot;y&quot; /&gt;&lt;param name=&quot;bootstrapWhenNotified&quot; value=&quot;true&quot; /&gt;&lt;/object&gt;&lt;/div&gt;
 
-&lt;p&gt;Corbyn’s speech, followed by a massive applause, finished with the words of encouragement stating that the common goal of political settlement in the whole Middle East region “must include the right of all the Kurdish people to self-determination regarding their own future, within or without existing national boarders.”&lt;/p&gt;
-
-&lt;p&gt;The position of the UK government on this issue remains unclear.&lt;/p&gt;
-
-&lt;p&gt;Update: on Tuesday, October 21, &lt;a href=&quot;http://www.independent.co.uk/news/world/middle-east/uk-drones-ready-to-attack-isis-in-syriaand-iraq-9807281.html&quot;&gt;British aircraft has been readied for flights over Kobane to fight Isis in Syria&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I keep in touch with the Bureau. Currently, I am working on a map-based timeline story about Drone Wars that will show how the statements of the officials on drones didn’t correlate with the reality. I plan to use either StoryMap or Odyssey.js.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 19 Oct 2014 16:50:05 +0100</pubDate>
-        <link>http://krystinashveda.com/Kurdish-delegation-against-ISIS</link>
-        <guid isPermaLink="true">http://krystinashveda.com/Kurdish-delegation-against-ISIS</guid>
+        <pubDate>Sat, 25 Apr 2015 17:27:00 +0100</pubDate>
+        <link>http://krystinashveda.com/tbij-drone-wars-viz</link>
+        <guid isPermaLink="true">http://krystinashveda.com/tbij-drone-wars-viz</guid>
         
         
       </item>
     
       <item>
-        <title>Kurdish protesters demand UK support in fight against ISIS</title>
-        <description>&lt;p&gt;As the Syrian city of Kobane retains its 34th day of Islamic State resistance backed by US’s weapon airdrops and air strikes, Kurdish population in the UK continues to march with protests in London, demanding proper help from the British government.&lt;/p&gt;
+        <title>How to run a hands-on webinar in data journalism – quick and free</title>
+        <description>&lt;p&gt;&lt;em&gt;Our &lt;a href=&quot;http://www.interhacktives.com&quot;&gt;MA Interactive Journalism class&lt;/a&gt; was assigned to organise a webinar and a live event, teaching digital journalism. I was appointed a coordinator, together with &lt;a href=&quot;https://twitter.com/Hamza_M_Ali&quot;&gt;Hamza Ali&lt;/a&gt;. It was quite a painful experience to make the team of 14 people work together just before the approach of a deadline period. But we did it! With quite a few big mistakes – but we’ve learnt on them and, common, now I have things to write about.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/80627489/krystinashveda.com/Kurdish%20protests/222.jpg&quot; alt=&quot;Kurdish protesters at Parliament Square&quot; /&gt;
-&lt;em&gt;Kurdish protesters at Parliament Square on October 14. At the front are Kurdistan flag and the the flag of YPG&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Although the UK has joined International Coalition Against Islamic State and agreed to conduct air strikes over Iraq who have requested international help, the Parliament is reluctant to allow military operations over the territory of Syria ruled by a hostile President Bashar al-Assad.&lt;/p&gt;
-
-&lt;p&gt;The protesters chant “Wake up UK, wake up UK, terrorists are ISIS”, asking the UK government to influence Turkey whose silence they regard as support for ISIS. Kurds living in Turkey also protested, which led to severe clashes with the police. Kurdish population is a sensitive issue for Turkey because Turkey, US and EU consider Kurdish PKK a terrorist party. Thousands of refugees from Kobane are stuck at the Syrian-Turkish boarder with no way either back or forth.&lt;/p&gt;
-
-&lt;iframe src=&quot;//player.vimeo.com/video/109684832&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;http://vimeo.com/109684832&quot;&gt;Kurdish protesters&#39; chants&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/user14398107&quot;&gt;Krystsina Shveda&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Kurdish people also address civilian people in the UK in an attempt to raise their concern. “ISIS is growing and growing, today it is Kurdistan, tomorrow it can be London,” one of the protesters says. “Civilian people in Kobane are like in a prison, being attacked by ISIS from 3 sides and by Turkey on the other side. Women die, children have no food. So, I am here especially for Kobane, I only want everybody to hear our voice. Please, help us.”&lt;/p&gt;
-
-&lt;p&gt;A delegation of Kurds organised by the protesters arrange meetings with MPs across London to discuss the chances of convincing the Parliament to provide timely help. During one of the protest meeting at Parliament Square on October 14, the delegation talked to Jeremy Corbyn MP for North Islington who voted against joining anti-ISIS Coalition before ISIS strikes focused on Kobane.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/80627489/krystinashveda.com/Kurdish%20protests/333.jpg&quot; alt=&quot;Jeremy Corbyn MP&quot; /&gt;
-&lt;em&gt;Jeremy Corbyn MP at the Kurdish protest in London&lt;/em&gt;&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Hope MP&amp;#39;s think before Parliamentary vote: Bombing will make the Isis problem worse | &lt;a href=&quot;https://twitter.com/guardianletters&quot;&gt;@guardianletters&lt;/a&gt;&amp;#10; &lt;a href=&quot;http://t.co/KxvbGgp46a&quot;&gt;http://t.co/KxvbGgp46a&lt;/a&gt; via &lt;a href=&quot;https://twitter.com/guardian&quot;&gt;@guardian&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jeremy Corbyn MP (@jeremycorbyn) &lt;a href=&quot;https://twitter.com/jeremycorbyn/status/514703922968027137&quot;&gt;September 24, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Our &lt;a href=&quot;https://twitter.com/Interhacktives&quot;&gt;@Interhacktives&lt;/a&gt; baby &lt;a href=&quot;https://twitter.com/JonathanFrayman&quot;&gt;@JonathanFrayman&lt;/a&gt; lol. He taught &lt;a href=&quot;https://twitter.com/hashtag/ddj?src=hash&quot;&gt;#ddj&lt;/a&gt; last night. Come see us on Thu! &lt;a href=&quot;http://t.co/Su4GUI5vXc&quot;&gt;http://t.co/Su4GUI5vXc&lt;/a&gt; &lt;a href=&quot;http://t.co/B0g0OXKQgz&quot;&gt;pic.twitter.com/B0g0OXKQgz&lt;/a&gt;&lt;/p&gt;&amp;mdash; Krystina Shveda (@KrystinaShveda) &lt;a href=&quot;https://twitter.com/KrystinaShveda/status/587928532342480897&quot;&gt;April 14, 2015&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;“We know that Jeremy Corbyn was one of the MPs who said no to airstrikes in Iraq against the ISIS. But his approach to Kobane and his approach to our demands was a bit different this time,” a 29-year-old Islington Councillor and Kurdish delegate Aysegul Erdogan said. According to her, MP Corbyn agreed to take this question to the Foreign and Commonwealth Office and get answers to how the UK would intervene with defeating the ISIS in Kobane. The delegates asked to conduct airstrikes against ISIS over Kobane and to provide armoury to YPG (People’s Protection Units) guerilla fighters who defend the city.&lt;/p&gt;
+&lt;p&gt;Here is a list of tips drawn from our either good or bad experience - but our own! – for those who want to share their knowledge with the world and organise a hands-on webinar without expenses, apart from time and commitment (do it!).&lt;/p&gt;
 
-&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Our heart lies with &lt;a href=&quot;https://twitter.com/hashtag/Kobane?src=hash&quot;&gt;#Kobane&lt;/a&gt;&lt;/p&gt;&amp;mdash; Aysegul Erdogan (@aysemeleti) &lt;a href=&quot;https://twitter.com/aysemeleti/status/522176567880208384&quot;&gt;October 15, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;h2 id=&quot;tips-for-running-a-hands-on-webinar&quot;&gt;Tips for running a hands-on webinar&lt;/h2&gt;
+
+&lt;h3 id=&quot;no-need-for-expensive-webinar-tools&quot;&gt;1. No need for expensive webinar tools&lt;/h3&gt;
+
+&lt;p&gt;Create a session in &lt;strong&gt;Google Hangout on Air&lt;/strong&gt;. Only up to 10 people can join a video call but an unlimited number can watch and text questions real-time. For a small group, video call is a great experience. Just create a session and send all subscribers a link. &lt;em&gt;(How to attract, register and keep subscribers is a whole different story for another post).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;You don’t even need to make a screencast - if you set it up beforehand, Hangout will &lt;strong&gt;stream your webinar live to YouTube&lt;/strong&gt;, and the video is than automatically saved.&lt;/p&gt;
+
+&lt;p&gt;With Hangout, you can also install a &lt;strong&gt;Q&amp;amp;A app&lt;/strong&gt; (prior to the broadcast) to have a channel for interaction and quick response to questions. &lt;/p&gt;
+
+&lt;h3 id=&quot;rehearse&quot;&gt;2. Rehearse!&lt;/h3&gt;
+
+&lt;p&gt;Even if you know the tool perfectly and feel comfortable presenting, your &lt;strong&gt;materials may have bugs&lt;/strong&gt; (if not written by you from scratch, e.g. a dataset from the Internet) - and you can only know about them if you run the whole thing yourself from start to end.&lt;/p&gt;
+
+&lt;h3 id=&quot;double-check-the-simplest-things&quot;&gt;3. Double-check the simplest things&lt;/h3&gt;
+
+&lt;p&gt;If you want your session to be useful, &lt;strong&gt;make sure everything works beforehand&lt;/strong&gt; - have you send people the correct links? is the google doc shared with the public? have you sent invitation to everyone via multiple channels, so that at least one reaches them? do you have a quiet and well-connected space to stay during the webinar? does your mic work? etc.&lt;/p&gt;
+
+&lt;h3 id=&quot;one-presenting-one-troubleshooting&quot;&gt;4. One presenting, one troubleshooting&lt;/h3&gt;
+
+&lt;p&gt;There will be very annoying technical problems like sending users the wrong link, screen not showing up, bad connection or anything else. It feels better to have a backup anyways. The other person may follow closely what you are saying and tell you quickly if what you’ve said was unclear. &lt;/p&gt;
+
+&lt;p&gt;NB: Best if both are &lt;strong&gt;seated in one room&lt;/strong&gt;, although we managed to nail it remotely, by staying on the line during all the webinar.&lt;/p&gt;
+
+&lt;h3 id=&quot;same-person-prepares-docs-and-presents--or-closely-together&quot;&gt;5. Same person prepares docs and presents – or closely together&lt;/h3&gt;
+
+&lt;p&gt;To avoid mess, make sure the person who presents is also the one who have prepared the materials. In case this process was distributed, make sure people looked at the materials together in detail. Ideally, &lt;strong&gt;everyone who has contributed should be present&lt;/strong&gt;, so that there was no need to call someone who has unique information in a rush.&lt;/p&gt;
+
+&lt;h3 id=&quot;send-the-subscribers-an-email-with-key-information&quot;&gt;6. Send the subscribers an email with key information&lt;/h3&gt;
+
+&lt;p&gt;Send an email update or a blogpost &lt;strong&gt;with links to materials you’re going to use and key steps you are going to show&lt;/strong&gt;. After the webinar, make a blogpost showing all you’ve done in a webinar for people to refer to. It is important because some will most probably not catch up with everything during the fast-paced session. &lt;/p&gt;
+
+&lt;p&gt;For instance, our presenter &lt;a href=&quot;https://twitter.com/JonathanFrayman&quot;&gt;Jon Frayman&lt;/a&gt; made this &lt;strong&gt;&lt;a href=&quot;https://jonathanfrayman.wordpress.com/2015/04/05/how-to-clean-data-in-excel/&quot;&gt;follow-up post about teaching data cleaning&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;remember-people-spend-their-precious-time-with-you&quot;&gt;7. Remember people spend their precious time with you&lt;/h3&gt;
+
+&lt;p&gt;The class should move fast enough to give people new information all the time and yet the teacher should &lt;strong&gt;stay mindful and attentive to questions&lt;/strong&gt; people interrupt you with. If something doesn’t work no matter what, move on with a minimum viable result. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Use improvisation comedy, if nothing else works.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It’ll be fine!&lt;/p&gt;
+
+&lt;h3 id=&quot;for-a-coda-a-quick-remark-on-the-target-audience&quot;&gt;For a coda, a quick remark on the target audience&lt;/h3&gt;
+
+&lt;p&gt;Be practical, look closer. &lt;/p&gt;
+
+&lt;p&gt;Maybe the best way to start is to teach your colleagues who are not so technically advanced? &lt;/p&gt;
+
+&lt;p&gt;It’s going to be much easier to communicate the news about the event to them, they will trust you as an educational source more likely (if you’ve earned that reputation), and there is more chance they will show up. You can always repeat the same webinar (well-rehearsed) for a wider (international) audience.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;We made it! &lt;a href=&quot;https://twitter.com/Interhacktives&quot;&gt;@Interhacktives&lt;/a&gt; were on air last night! Cleaning Data webinar cast: &lt;a href=&quot;http://t.co/fBQ6VphvLS&quot;&gt;http://t.co/fBQ6VphvLS&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/ddj?src=hash&quot;&gt;#ddj&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/ddjlearn?src=hash&quot;&gt;#ddjlearn&lt;/a&gt; &lt;a href=&quot;http://t.co/r3doZF8IqB&quot;&gt;pic.twitter.com/r3doZF8IqB&lt;/a&gt;&lt;/p&gt;&amp;mdash; Krystina Shveda (@KrystinaShveda) &lt;a href=&quot;https://twitter.com/KrystinaShveda/status/587924159373643776&quot;&gt;April 14, 2015&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;In his open speech to protesters, Jeremy Corbyn said that he was trying to manipulate in the Parliament that the threat to Kurdish people comes not only to from ISIS forces but also, even more importantly, from the Turkish government. “Since Turkey is a member of NATO and a very close ally of the British government, we expect the British government to be making some demands on the Turkish government about humanitarian aid, safe corridors, movement of refugees, practical support of the Kurdish people,” he stated.  Corbyn assumed that other MPs would join this position.&lt;/p&gt;
-
-&lt;p&gt;A speech followed by a massive applause finished with the words of encouragement stating that the common goal of political settlement in the whole Middle East region “must include the right of all the Kurdish people to their self-determination, to decide their own future within or without existing national boarders”.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/80627489/krystinashveda.com/Kurdish%20protests/444.jpg&quot; alt=&quot;Jeremy Corbyn MP speeks to protesters&quot; /&gt;
-&lt;em&gt;Jeremy Corbyn MP speeks to protesters&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The position of the UK government on this issues remains unclear today.&lt;/p&gt;
-
-&lt;p&gt;Update: on Tuesday, October 21, The Independent reported that &lt;a href=&quot;http://www.independent.co.uk/news/world/middle-east/uk-drones-ready-to-attack-isis-in-syriaand-iraq-9807281.html&quot;&gt;British aircraft have been readied for flights over Syria in the war against Isis&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 19 Oct 2014 15:50:05 +0100</pubDate>
-        <link>http://krystinashveda.com/Kurdish-protesters-against-ISIS</link>
-        <guid isPermaLink="true">http://krystinashveda.com/Kurdish-protesters-against-ISIS</guid>
+        <pubDate>Tue, 14 Apr 2015 14:27:00 +0100</pubDate>
+        <link>http://krystinashveda.com/organise-hands-on-webinar</link>
+        <guid isPermaLink="true">http://krystinashveda.com/organise-hands-on-webinar</guid>
         
         
       </item>
     
       <item>
-        <title>Data Journalism lab 1 at City</title>
-        <description>&lt;h3 id=&quot;its-all-about-the-pace-of-learning&quot;&gt;It’s all about the pace of learning&lt;/h3&gt;
+        <title>How to find peace with Tableau</title>
+        <description>&lt;p&gt;&lt;strong&gt;Tableau has become a golden standard among data journalists who cannot code (d3.js) – for its wide range of visualisation possibilities that do not require a high technical knowledge from its user. However, I’ve heard many complaints from colleagues that the tool is not intuitive and heard to start with. After having been asked by &lt;a href=&quot;http://dev.by/&quot;&gt;a Belarusian IT news site dev.by&lt;/a&gt; to produce some visualisations for them, I spent about a month playing around with &lt;a href=&quot;http://www.tableau.com/&quot;&gt;Tableau 9.0&lt;/a&gt;.  And so I share my conclusions and tips below.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;I thought I knew something about Excel, but after our first data journalism workshop with John Burn-Murdoch, I think maybe not. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/80627489/krystinashveda.com/Screen%20Shot%202015-05-08%20at%2013.40.33.png&quot; alt=&quot;My map in Tableau&quot; /&gt;
+&lt;em&gt;(A Tableau workbook with one of the infographics I produced for dev.by)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;This was a small compliment to John whom I happy to see as our teacher, but the whole drama around this for me is &lt;em&gt;the pace of learning&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;to-use-or-not-to-use&quot;&gt;To use or not to use&lt;/h2&gt;
 
-&lt;p&gt;I considered myself quite a fast learner. Throughout my 3+ years at a huge software services corporation, I had to be constantly learning new approaches and tools. There was no other choice if I wanted to adopt myself for more and more complex projects I pulled myself into. Not a big deal to spend &lt;em&gt;a couple weeks&lt;/em&gt; digging on the internet and learning by doing. The thing is that I was able to introduce innovation, whilst many others tended to stick to what they already knew.&lt;/p&gt;
+&lt;p&gt;Tableau is called a tool for &lt;strong&gt;visual analytics&lt;/strong&gt; because  it has an enhanced &lt;strong&gt;filtering/pivoting mechanism&lt;/strong&gt; in its core. So the way to conquer it is to know your data well. I tried - it’s not going to give you a sensible outcome if you just try to click on random dimensions hoping everything can correlate with everything magically, like in other data viz tools. &lt;/p&gt;
 
-&lt;p&gt;All in all, I was lucky enough to have my own tiny room in the office and could invest time into experimenting. How come? This is Minsk, baby. The competition is not high enough to push you not only do cool things but also do them &lt;em&gt;fast&lt;/em&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;Tableau will refuse to output even the simplest bar chart correctly if you don’t know what you are looking for. &lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Now, let’s compare a couple weeks and 2 hours in class - probably, for the same amount of knowledge. My mind was simply puzzled.&lt;/p&gt;
+&lt;p&gt;Actually, for a simple graph with a single value I would recommend sticking to &lt;a href=&quot;https://datawrapper.de/&quot;&gt;Datawrapper&lt;/a&gt; and the like - it’s a good quick-story tool with just enough interactivity to be better than Excel charts but simple enough to do magic (automated visualisations). I often use Datawrapper for initial visual analytics, aka to see the big picture.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;This compression of time is maybe the best thing about studying at City.&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;Say, you have a dataset of all crimes committed in London in 2014 and want to find out what crime types are the most common (i.e. see how many cases of each crime type happened in 2014). So easy, hah? Datawrapper will do a bar chart automatically. But in Tableau, you first need to figure out how you build a pivot table out of the dataset, because if you simply put “crime type” into columns and number of records into rows, it will show you a useless block with a number of total crimes on top. If you also add crime type to the MARK panel - e.g. in &lt;em&gt;Colour&lt;/em&gt;, it will differentiate each crime type with colour - that’s better - but within the same dull block. And only after you change the Mark type into a bar chart will it give you the bar chart you were looking for. &lt;/p&gt;
 
-&lt;p&gt;Two years passed after I first heard about data journalism (was immediately in love). By 2014, I’ve done &lt;em&gt;some&lt;/em&gt; data visualisations. I’ve even been invited to talks on data journalism in Minsk. Because omg I was one of the avantguard characters in local journalism. But I still struggle to parrot a chain of operations in Excell at fast pace. &lt;/p&gt;
+&lt;h2 id=&quot;the-dataset-behind-a-tableau-viz-is-king&quot;&gt;The dataset behind a Tableau viz is king&lt;/h2&gt;
 
-&lt;p&gt;So, is it me or it is because I lived in a society that has a deceptive standard of success? Not like I stayed in a closed environment and couldn’t compare - I read industry news, attended international conferences. But there is no place like London that can show you so immediately what success means. It’s when you are chaging the world in two years after you’ve started learning. Because even two hours matter, it’s actually a massive amount of time to learn new things.&lt;/p&gt;
+&lt;p&gt;With Tableau, you first need to &lt;strong&gt;have a table in mind&lt;/strong&gt;. You’ll work out of spreadsheet anyway &lt;em&gt;(only Excel, no csv for the free Tableau Public)&lt;/em&gt;. As the &lt;a href=&quot;https://public.tableau.com/s/resources&quot;&gt;intoductory Tableau tutorials&lt;/a&gt; say, for the best result, each row in a dataset should represent &lt;strong&gt;a unique data unit&lt;/strong&gt; (e.g. a person, a sold item, a crime case) and each column should add &lt;strong&gt;a new characteristic&lt;/strong&gt; across all the units. Start your table in A1 and make sure there is nothing extra like explanatory text (everything will be treated as a value). It’s important to understand that Tableau treats data horizontally, row by row. No totals.&lt;/p&gt;
 
-&lt;p&gt;NB Practical note: during the class, as a true geek, I tryed to document every step we took to be able to repeat the whole thing. Simply being able to follow the steps without remembering would be not good enough for me. This may be one of the reasons why I found it difficult to follow sometimes.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/80627489/krystinashveda.com/Screen%20Shot%202015-05-08%20at%2014.07.07.png&quot; alt=&quot;Data source&quot; /&gt;
+&lt;em&gt;A typical data source&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have downloaded a good dataset, it will already be organised correctly. But sometimes you’ll need to &lt;strong&gt;build a table from scrath for visualisation&lt;/strong&gt; (still in Excel), e.g. to compare values from different datasets when you received a number of FOI replies to the same question from different organisations or if you want to compare data for different years that is stored in separate tabs in Excel). It is crucial to give a descriptive name to each column - it should summarise what values are contained in it; so don’t name columns across the header row, like 1,2,3 or 2010,2011,2012 -&amp;gt; School places 2010, School places 2011, School places 2011. &lt;/p&gt;
+
+&lt;p&gt;It’s important because you will only see the names of the columns in a workbook and it’s helpful if the names correspond to what they contain. Remember that if your table doesn’t have a header row, Tableau will nominate each column a nominal number (F1, F2 … F13), which becomes quite a mess.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-the-hell-are-those-panels&quot;&gt;What the hell are those panels&lt;/h2&gt;
+
+&lt;p&gt;Tableau divides data (imagine each column is a mini dataset) into two types:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dimentions&lt;/strong&gt; store categorical data, like yes/no/don’t know or heads/tails or tables/chairs/cupboards. You can compare the number of records for different categoties and visualise it by choosing various types of &lt;em&gt;Graphs&lt;/em&gt; (“Show me”) and &lt;em&gt;Marks&lt;/em&gt; (usually marks add an exta layer of data to the graph by differentiating via colour coding, shape, size, label or detail).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/80627489/krystinashveda.com/Screen%20Shot%202015-05-08%20at%2014.41.23.png&quot; alt=&quot;Types of data viz in Tableau&quot; /&gt;
+&lt;em&gt;Types of data viz in Tableau&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Remember, blank cells aka “No response”/“Unknown” are also data - try to keep them in the final viz.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Measures&lt;/strong&gt; are columns with numberical data. The calculations possibilities are wider. For example, you can do a beloved one scatter plot to compare two sets of data. &lt;/p&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;https://public.tableau.com/javascripts/api/viz_v1.js&quot;&gt;&lt;/script&gt;
+&lt;div class=&quot;tableauPlaceholder&quot; style=&quot;width: 604px; height: 719px;&quot;&gt;&lt;noscript&gt;&lt;a href=&quot;#&quot;&gt;&lt;img alt=&quot;Dashboard 1 &quot; src=&quot;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;My&amp;#47;MyTwitterfollowers&amp;#47;Dashboard1&amp;#47;1_rss.png&quot; style=&quot;border: none&quot; /&gt;&lt;/a&gt;&lt;/noscript&gt;&lt;object class=&quot;tableauViz&quot; width=&quot;604&quot; height=&quot;719&quot; style=&quot;display:none;&quot;&gt;&lt;param name=&quot;host_url&quot; value=&quot;https%3A%2F%2Fpublic.tableau.com%2F&quot; /&gt; &lt;param name=&quot;site_root&quot; value=&quot;&quot; /&gt;&lt;param name=&quot;name&quot; value=&quot;MyTwitterfollowers&amp;#47;Dashboard1&quot; /&gt;&lt;param name=&quot;tabs&quot; value=&quot;no&quot; /&gt;&lt;param name=&quot;toolbar&quot; value=&quot;yes&quot; /&gt;&lt;param name=&quot;static_image&quot; value=&quot;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;My&amp;#47;MyTwitterfollowers&amp;#47;Dashboard1&amp;#47;1.png&quot; /&gt; &lt;param name=&quot;animate_transition&quot; value=&quot;yes&quot; /&gt;&lt;param name=&quot;display_static_image&quot; value=&quot;yes&quot; /&gt;&lt;param name=&quot;display_spinner&quot; value=&quot;yes&quot; /&gt;&lt;param name=&quot;display_overlay&quot; value=&quot;yes&quot; /&gt;&lt;param name=&quot;display_count&quot; value=&quot;yes&quot; /&gt;&lt;param name=&quot;showVizHome&quot; value=&quot;no&quot; /&gt;&lt;param name=&quot;showTabs&quot; value=&quot;y&quot; /&gt;&lt;param name=&quot;bootstrapWhenNotified&quot; value=&quot;true&quot; /&gt;&lt;/object&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;An example of a simple scatter plot. Note this data viz has filter functionality. It’s very easy to add them  to a Dashboard (see below).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;But &lt;strong&gt;beware of false correlations&lt;/strong&gt; – they don’t always (usually don’t) mean causation. (&lt;a href=&quot;http://www.tylervigen.com/&quot;&gt;Check this to have some laugh&lt;/a&gt;, thanks to James Ball for showing us this).&lt;/p&gt;
+
+&lt;p&gt;Oh, and do read this book, it’s amazing: &lt;a href=&quot;http://books.google.co.uk/books/about/How_to_Lie_with_Statistics.html?id=5oSU5PepogEC&quot;&gt;How To Lie With Statistics&lt;/a&gt;, written by Darrell Huff in 1954 – all still true! (Thanks to Paul Bradshaw for referring to it and to City Library for putting it in the books display for me to find it).&lt;/p&gt;
+
+&lt;p&gt;Back to Tableau, you can change the data types manually as well as copy or move columns between Dimensions and Measures.&lt;/p&gt;
+
+&lt;p&gt;Note that as a default Tableau will show the distribution of data (COUNT or SUM), not some sort of summarisation. This will immediately show all the limitations of your data, e.g. a small sampling, so it is harder to lie with Tableau than with Excel (totals, averages, etc.). Yet, if you work with numerical data, you can play around with calculation types.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/80627489/krystinashveda.com/Screen%20Shot%202015-05-08%20at%2015.07.19.png&quot; alt=&quot;calculation types&quot; /&gt;
+&lt;em&gt;Calculation types&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;make-it-pretty&quot;&gt;Make it pretty&lt;/h2&gt;
+
+&lt;p&gt;Visual analytics is a powerful thing indeed. Sometimes a graph or a set of graphs suddently start to make sense only after they’ve been refurbished to look pretty (if serious, it is very true for colour coding - keep on playing with colours to focus the attention on what is important).&lt;/p&gt;
+
+&lt;p&gt;Use Filters in a worksheet to hide data that is not very relevant but distorts the main insights.&lt;/p&gt;
+
+&lt;p&gt;Anyway, the best thing to make your visualisation look neat is to add it to a &lt;em&gt;Dashboard&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dashboard is like a puzzle. As a default and for your convenience, all elemenets will be added as tiles next to each other, with no possibility to overlap (New objects: Tiled). Try adding &lt;em&gt;Blank&lt;/em&gt; spaces if you feel like the dashboard is too crammed. Add text, images, hyperlinks – it sometimes makes sense to add those smaller objects as &lt;em&gt;Floating&lt;/em&gt;, i.e. they can overlap the other.&lt;/p&gt;
+
+&lt;p&gt;Define the needed size of a dashboard in the lower left panel called &lt;em&gt;Dashboard&lt;/em&gt; (choose &lt;em&gt;Exactly&lt;/em&gt; to be very precise; &lt;em&gt;Range&lt;/em&gt; for mobile optimised version).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/80627489/krystinashveda.com/Screen%20Shot%202015-05-08%20at%2015.20.40.png&quot; alt=&quot;Typical dashboard&quot; /&gt;
+&lt;em&gt;What you can do in a Dashboard&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;You can add &lt;em&gt;Quick filters&lt;/em&gt; to a dashboard to allow the user to change views by filtering by a certain category.&lt;/p&gt;
+
+&lt;h2 id=&quot;comparing-data-across-datasets&quot;&gt;Comparing data across datasets&lt;/h2&gt;
+
+&lt;p&gt;Say, you want to compare values for a certain characteristic (column) across a number of Excel tabs. For example, school marks of the same group in each grade. Make sure data units (rows) are the same/in the same quantity (=same number of records) in all tabs. Otherwise, you will lie with statistics.&lt;/p&gt;
+
+&lt;p&gt;But if the units have been different each year (e.g. a random sample of people surveyed with the same question each year), you can only compare how the proportions of the asnwers changed, i.e. show all values in persentages rather than absolute numbers.&lt;/p&gt;
+
+&lt;p&gt;You don’t always need to build a new table to compare data from different sources. Tableau has a &lt;em&gt;Story&lt;/em&gt; functionality, so you can add worksheets and even dashboards from built from different datasources on one page, with a dedicated button for each.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/80627489/krystinashveda.com/Screen%20Shot%202015-05-08%20at%2014.59.38.png&quot; alt=&quot;Example of a story&quot; /&gt;
+&lt;em&gt;Example of a story&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Check what other have done in Tableau. In public galleries, you can download any workbook by any author and play around - isn’t it a great way to learn?&lt;/p&gt;
+
+&lt;p&gt;Or, when you look at a beautiful Tableau viz, try to guess what columns in a dataset are being compared/correlated/illustrated. This will help you develop data thinking - what exactly you can visualise in your data.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.tableau.com/learn/whitepapers/tableau-visual-guidebook&quot;&gt;This free Whitepaper written by Tableau is very very helpful in improving your processes and styling.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 10 Oct 2014 12:20:05 +0100</pubDate>
-        <link>http://krystinashveda.com/october-agenda-talks</link>
-        <guid isPermaLink="true">http://krystinashveda.com/october-agenda-talks</guid>
+        <pubDate>Tue, 24 Mar 2015 18:49:00 +0000</pubDate>
+        <link>http://krystinashveda.com/how-to-use-tableau</link>
+        <guid isPermaLink="true">http://krystinashveda.com/how-to-use-tableau</guid>
         
         
       </item>
     
       <item>
-        <title>Talks and Meetups for Interhacktives - October agenda</title>
-        <description>&lt;p&gt;12 free events an interactive journalist wants to attend in London:&lt;/p&gt;
+        <title>News ownership and new media (essay)</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://images.bidnessetc.com/img/960-f9fd2624beefbc7808e4e405d73f57ab-google-fires-back-at-news-corps-rupert-murdoch.jpg&quot; alt=&quot;Murdoch accuses Google&quot; /&gt;
+&lt;em&gt;Image source: &lt;a href=&quot;http://images.bidnessetc.com/img/960-f9fd2624beefbc7808e4e405d73f57ab-google-fires-back-at-news-corps-rupert-murdoch.jpg&quot;&gt;Bidnessetc.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;iframe src=&quot;https://www.google.com/calendar/embed?showTitle=0&amp;amp;showNav=0&amp;amp;showTz=0&amp;amp;height=600&amp;amp;wkst=2&amp;amp;bgcolor=%23FFFFFF&amp;amp;src=18e3kddq2kkqjloql39175pjeo%40group.calendar.google.com&amp;amp;color=%23AB8B00&amp;amp;ctz=Europe%2FLondon&quot; style=&quot; border-width:0 &quot; width=&quot;800&quot; height=&quot;600&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;em&gt;By Krystina Shveda&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Are there genuine reasons for concern about press freedom in the age of new media? It depends on whether we believe that giant Western news organisations are press freedom. Indeed, may they stop their work as informers, verificators, investigators and government scrutinisers, would those who have the power become out of control? If so, would small, diverse new media companies be able to withstand the propaganda wars?&lt;/p&gt;
+
+&lt;p&gt;But let us look at the world outside the developed countries. How many non-English speaking nations in Asia, Africa, even Eastern Europe live under authoritarian regimes where major news institutions are subdued by the governments or influenced by the propaganda? Plenty. In Belarus, where I am from, “brainwashing” is a term most commonly used with regard to the local and Russian television, the main source of “news” for the masses. People in such countries can neither read global reporting in English nor rely on the official news channels, often owned by the government. There is no such asset as free press in these areas. There is only propaganda war, where small new media initiatives are the only voices of freedom.&lt;/p&gt;
+
+&lt;p&gt;Internet provided the third world with an opportunity to speak relatively freely. It also globalised the flows of information – be it data, news or mendacious propaganda. For instance, &lt;a href=&quot;https://www.youtube.com/results?search_query=war+in+Ukraine&quot;&gt;a YouTube search on “war in Ukraine”&lt;/a&gt; gives back 931,000 results [Note: the number doubled in two months], many of them having flashy “shocking truth” headlines. The so-called “citizen journalists” provide raw footage but also thousands of misleading comments and fake explanations. Without reliable journalists and scholars who verify and explain the background both international observers and local citizens would and do drown in the ocean of “truths”, in their turn imposed on people’s minds by higher levels of propaganda.&lt;/p&gt;
+
+&lt;p&gt;My conclusion from analysing this vicious circle is whoever can find the morale to act – be it major news wires, IT giants, media startups or international NGOs – and invest in sending independent journalists to hotspots, translating reliable information into national languages, optimising internet search, donating to improve free press worldwide, will be free press. I agree with an American journalist and coach Steve Buttry who said in relation to his country: &lt;a href=&quot;http://stevebuttry.wordpress.com/2009/04/16/googles-no-threat-to-press-freedom&quot;&gt;“I don’t fear that Google or the internet threaten our First Amendment freedoms. The greatest threats to freedom of the press are Americans who don’t understand the First Amendment or politicians who do understand it.”&lt;/a&gt; (Buttry, 2009)&lt;/p&gt;
+
+&lt;p&gt;Robert Calo from UC Berkeley Graduate School of Journalism said at a lecture at City University London that, to gain people’s trust, the media, be it traditional journalism or startup, big or small, should be transparent, irreverent to politicians, cross-referencing. The emergence of many new storytelling devices is compelling, it opens horizons to tell a wider range of stories. He is sure that innovation in journalism will come from outside journalism (Calo, n.d.).&lt;/p&gt;
+
+&lt;p&gt;In a 2009 talk, Steve Buttry said about freedom of press in technology era: “It is healthy, it is thriving and it will not be stopped, even if the companies that own printing presses can’t find their way to a prosperous future” (Buttry, 2009). &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/a/a3/Mark_Zuckerberg_1984_Berlin_Graffiti.jpg&quot; alt=&quot;Zuckerberg 1984&quot; style=&quot;float:left;width:405px;height:530px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Indeed, newspaper corporations are rattled by the financial successes of IT giants Google, Facebook et al. With more people choosing to consume “fast” news on social media or news aggregators, traditional newspapers lose moral authority, readerships and advertisers. According to Emily Bell, director at the Tow Center for Digital Journalism at Columbia Journalism School, &lt;a href=&quot;http://reutersinstitute.politics.ox.ac.uk/news/silicon-valley-and-journalism-make-or-break&quot;&gt;journalists don’t own and understand the channels of news production and distribution any more and have to follow the new rules set by “unaccountable software companies”&lt;/a&gt; (Bell, 2014).&lt;/p&gt;
+
+&lt;p&gt;But does shifting the control power from one corporation to another necessarily means limitation of free speech? Jeff Jarvis, director at the Tow-Knight Center for Entrepreneurial Journalism at CUNY, &lt;a href=&quot;http://buzzmachine.com/2014/11/22/journalism-technology-duel-dance&quot;&gt;wrote&lt;/a&gt;: “It was technology that freed journalism from its bondage to media moguls and corporations. Who’s to say that our corporations were better than their corporations?” (Jarvis, 2014a).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Image source: &lt;a href=&quot;http://upload.wikimedia.org/wikipedia/commons/a/a3/Mark_Zuckerberg_1984_Berlin_Graffiti.jpg&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In my view, the future depends on whether traditional newspapers and software companies could cooperate. Similarly to how difficult but necessary mutual teaching between younger and older generations is, the sides who both claim their commitment to free speech should teach each other.&lt;/p&gt;
+
+&lt;p&gt;Media analysts argue that traditional newspapers could help Silicon Valley “define evil and good” (Jarvis, 2014a), &lt;a href=&quot;https://gigaom.com/2014/11/22/technology-set-journalism-free-now-new-platforms-are-in-control&quot;&gt;take the “editorial decisions that affect our view of the world”&lt;/a&gt; (Ingram, 2014). Companies like Twitter already shown their position by fighting against disclosing their users’ information to the governments.&lt;/p&gt;
+
+&lt;p&gt;However, there is a tendency for software companies like Facebook and Twitter to deny their roles as content editors, saying that technology is neutral (Bell, 2014). But Facebook’s filtering algorithm, even if it is based on the audience’s preferences, is nothing else but an editorial tool that gives the company power to decide which information their users see.&lt;/p&gt;
+
+&lt;p&gt;Despite blaming Facebook for hiding conversations about Ferguson case, which means the algorithm is still not properly set for news dissemination, a sociologist of technology Zeynep Tufekci agrees that &lt;a href=&quot;https://medium.com/message/ferguson-is-also-a-net-neutrality-issue-6d2f3db51eb0&quot;&gt;without Twitter and Facebook “such incidents would be buried in silence” and the readers would depend on whether a newspaper decides the story is worth national coverage&lt;/a&gt; (Tufekci, 2014).&lt;/p&gt;
+
+&lt;p&gt;There are even more ways traditional journalism can learn from the progressive techs. In a lecture on journalism disruption, Jane Singer, Innovation Journalism professor at the City University London Journalism Department, mentioned that people always needed time to adapt to new technology, starting from printing press to internet, there are similar adaptation stages: trepidation, resistance, acceptance, dependence (Singer, n.d.).&lt;/p&gt;
+
+&lt;p&gt;As the ideological founder of data journalism &lt;a href=&quot;http://www.holovaty.com/writing/fundamental-change&quot;&gt;Adrian Holovaty put it eight years ago&lt;/a&gt;, “fundamental shifts need to happen for newspaper companies to remain essential sources of information for their communities. One of those important shifts is: Newspapers need to stop the story-centric worldview” and resort to structured information (Holovaty , 2006). Data mining, automated data analysis, interactive visualisations, mobile and social media reporting, streaming video and audio – all this computational techniques are shaping the new era of digital journalism. Despite rather pessimistic prognoses of the above mentioned analysts, I believe that the new generation of journalists will succeed in embracing the technology for improved reporting as well as finding sustainable business models for digital newspapers.&lt;/p&gt;
+
+&lt;p&gt;Jeff Jarvis who is a defendant of Google thinks &lt;a href=&quot;http://buzzmachine.com/2014/12/11/spains-link-tax-forces-google-news-shut&quot;&gt;the IT giant can help the newsrooms&lt;/a&gt; find new, sustainable business models (going to the public rather than waiting for them to come), invest in media startups in Europe, defend the net against NSA spying and free speech “against the protectionism and political opportunism of publishers and politicians” (Jarvis, 2014b). In France, Google did set up a fund to assist local newspapers adapt to the technological era. But in many parts of Europe, politicians pushed by newspaper oligarchs who worry that an American company is monopolising the online market with its omnipresent services are trying to push it out instead of encouraging its own institutions to innovate and achieve better results. On 16 December 2014, Spain introduced link tax for news aggregators that led to shut down of Google News in Spain and the loss of traffic for most of the newspapers. The director of Spanish eldiario.es &lt;a href=&quot;http://www.eldiario.es/preguntame/entrevista-escolar_0_344016334.html&quot;&gt;Ignacio Escolar commented&lt;/a&gt;: “Saying that Google robs you while investing huge amounts of money in being the first one in the results page is hypocrite. It’s a try of the old press to improve their financial results by robbing an American who was passing by.” (Escolar, 2015) &lt;/p&gt;
+
+&lt;p&gt;To conclude, Western news corporations are not the synonym to press freedom – it can be executed in many forms by various types of organisations, if their activities are based on democratic principles and human rights ethics. Mutual support, cooperation and cross-investment between journalism and software companies may ensure a future of free press.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;[Ends: 1,288 words]&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Bell, E.&lt;/em&gt; (2014). Silicon Valley and Journalism: Make up or Break up?.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Buttry, S.&lt;/em&gt; (2009). Google’s no threat to press freedom. [online] The Buttry Diary. Available at: http://stevebuttry.wordpress.com/2009/04/16/googles-no-threat-to-press-freedom/ [Accessed 5 Jan. 2015].&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Calo, R.&lt;/em&gt; (n.d.). Lecture at the City University London Department of Journalism.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Escolar, I.&lt;/em&gt; (2015). Ignacio Escolar: “Ya es irreal pensar que la prensa se lee en papel”. [online] eldiario.es. Available at: http://www.eldiario.es/preguntame/entrevista-escolar_0_344016334.html [Accessed 10 Jan. 2015].&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Holovaty, A.&lt;/em&gt; (2006). A fundamental way newspaper sites need to change. [online] Holovaty.com. Available at: http://www.holovaty.com/writing/fundamental-change/ [Accessed 31 Oct. 2014].&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Ingram, M.&lt;/em&gt; (2014). Technology set journalism free, now new platforms are in control. [online] Gigaom.com. Available at: https://gigaom.com/2014/11/22/technology-set-journalism-free-now-new-platforms-are-in-control/ [Accessed 6 Jan. 2015].&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Jarvis, J.&lt;/em&gt; (2014). Journalism &amp;amp; technology: to duel or dance? — BuzzMachine. [online] BuzzMachine. Available at: http://buzzmachine.com/2014/11/22/journalism-technology-duel-dance/ [Accessed 11 Jan. 2015].&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Jarvis, J.&lt;/em&gt; (2014). Spain’s link tax forces Google News to shut there — BuzzMachine. [online] BuzzMachine. Available at: http://buzzmachine.com/2014/12/11/spains-link-tax-forces-google-news-shut/ [Accessed 28 Dec. 2014].&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Singer, J.&lt;/em&gt; (n.d.). Journalism Disrupted.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Tufekci, Z.&lt;/em&gt; (2014). What Happens to #Ferguson Affects Ferguson: Net Neutrality, Algorithmic Filtering and Ferguson. [online] Medium. Available at: https://medium.com/message/ferguson-is-also-a-net-neutrality-issue-6d2f3db51eb0 [Accessed 5 Jan. 2015].&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Jan 2015 11:20:05 +0000</pubDate>
+        <link>http://krystinashveda.com/ownership-and-new-media</link>
+        <guid isPermaLink="true">http://krystinashveda.com/ownership-and-new-media</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Putin’s ‘free trade’ union – next casualty of war in ‘New Russia’?</title>
+        <description>&lt;p&gt;LONDON Mon Dec 15, 2014 5:00 pm GMT&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;By Krystina Shveda&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/7/77/Customs_Union_of_Belarus,_Kazakhstan_and_Russia_2011.png&quot; alt=&quot;Eurasian Trade Union&quot; style=&quot;float:left;width:405px;height:415px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Russia-centred free trade union may be undermined by a growing conflict between the main partners Russia and Belarus as Moscow accused its neighbour of re-exporting banned Western products.&lt;/p&gt;
+
+&lt;p&gt;In August, Moscow imposed embargo on agricultural products from a number of Western countries in response to sanctions that EU and US announced to stop Kremlin-backed war in Eastern Ukraine.&lt;/p&gt;
+
+&lt;p&gt;This inevitably led to trade reshuffles in the region, with Belarus having used its chance to increase export of meat, fish, dairy, fruit and vegetables to Russia. But despite a signed agreement, Moscow started to hamper free trade, fearing its western neighbour would collaborate with the EU.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Image Source: &lt;a href=&quot;http://upload.wikimedia.org/wikipedia/commons/7/77/Customs_Union_of_Belarus,_Kazakhstan_and_Russia_2011.png&quot;&gt;Wikimedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In late November, Russia’s sanitary surveillance service, de facto used as a customs substitute, accused Minsk of illegal re-exporting EU vegetables to Russia and announced its intention to tighten the conditions of food cargo transit across its territory.&lt;/p&gt;
+
+&lt;p&gt;Earlier, it banned export of certain Belarusian meat products due to “a decline in the quality that might have been caused by an unusual increase in import of Western products to Belarus”.  &lt;/p&gt;
+
+&lt;p&gt;Belarusian president Alexander Lukashenko said he found Russia’s move “depressing” and “indecent”. &lt;/p&gt;
+
+&lt;p&gt;“Re-export is impossible, since it’s tracked. If we buy fruits and vegetables in Germany or Poland and process them into juices et cetera, it means we sell Belarusian products to Russia. It’s not banned by this embargo,” he explained earlier.&lt;/p&gt;
+
+&lt;p&gt;In response, Belarus unofficially renewed customs control at Russian border in early December. On Monday, it banned import of certain Russian products.&lt;/p&gt;
+
+&lt;p&gt;Belarusian counter-measures may be interpreted as an ultimatum to defend its right to free trade that underlies the Eurasian Customs Union agreement.&lt;/p&gt;
+
+&lt;p&gt;Kremlin’s support of war in Eastern Ukraine driven by a desperate desire to drag pro-European Ukraine to its free trade union – to control its natural and labour resources ¬– may ironically put an end to the union itself.&lt;/p&gt;
+
+&lt;p&gt;While Moscow keeps on denying its involvement, the actual war casualties grow, with at least 4,500 killed, 10,200 wounded and 1,1m refugees, according to a U.N. report from 13 December.&lt;/p&gt;
+
+&lt;p&gt;Ukrainians around the globe organise protests to demand even more far-reaching sanctions as well as military assistance from the West.&lt;/p&gt;
+
+&lt;p&gt;A London-based protester Orest Andrijiw said: “The sanctions currently being imposed on Putin are falling far short of what is available on the table, considering the fact that Ukraine is on this country’s doorstep. The war is threatening Europe.”&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Dec 2014 01:20:00 +0000</pubDate>
+        <link>http://krystinashveda.com/free-trade-union-threatened</link>
+        <guid isPermaLink="true">http://krystinashveda.com/free-trade-union-threatened</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Free London events for digital journalists - monthly</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/1/1e/Tippett_mccluhan_2008.jpg&quot; alt=&quot;free events in journalism&quot; /&gt; 
+&lt;em&gt;Image source: &lt;a href=&quot;http://upload.wikimedia.org/wikipedia/commons/1/1e/Tippett_mccluhan_2008.jpg&quot;&gt;Wikimedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Those journalists who still think lack of money is an obstacle to learn new awesome things and network in London are simply not proper investigative journalists.&lt;/p&gt;
+
+&lt;p&gt;Putting aside the vortex of online opportunities like MOOCS, tutorials and webinars, here is a monthly selection of free meals for digital journalists (often in both senses) in London.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/calendar/embed?showTitle=0&amp;amp;showNav=0&amp;amp;showTz=0&amp;amp;height=600&amp;amp;wkst=2&amp;amp;bgcolor=%23FFFFFF&amp;amp;src=18e3kddq2kkqjloql39175pjeo%40group.calendar.google.com&amp;amp;color=%23AB8B00&amp;amp;ctz=Europe%2FLondon&quot; style=&quot; border-width:0 &quot; width=&quot;740&quot; height=&quot;540&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Mon, 06 Oct 2014 12:20:05 +0100</pubDate>
-        <link>http://krystinashveda.com/october-agenda-talks</link>
-        <guid isPermaLink="true">http://krystinashveda.com/october-agenda-talks</guid>
+        <link>http://krystinashveda.com/digital-journalism-agenda-London</link>
+        <guid isPermaLink="true">http://krystinashveda.com/digital-journalism-agenda-London</guid>
         
         
       </item>
