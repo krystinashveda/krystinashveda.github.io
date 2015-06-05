@@ -62,24 +62,26 @@
   </header>
 
   <article class="post-content">
-    <p><strong>Tableau has become a golden standard among data journalists who cannot code (d3.js) – for its wide range of visualisation possibilities that do not require a high technical knowledge from its user. However, I’ve heard many complaints from colleagues that the tool is not intuitive and heard to start with. After having been asked by <a href="http://dev.by/">a Belarusian IT news site dev.by</a> to produce some visualisations for them, I spent about a month playing around with <a href="http://www.tableau.com/">Tableau 9.0</a>.  And so I share my conclusions and tips below.</strong></p>
+    <p><strong>Tableau has become a golden standard among data journalists who cannot code (d3.js) – for its wide range of visualisation possibilities that do not require a high technical knowledge from its user. However, I’ve heard many complaints from journalists that the tool is not intuitive and hard to start with. Here are some of my observations and tips about the tool for beginners.</strong></p>
+
+<p><strong>Tableau has become a golden standard among data journalists who cannot code (d3.js) – for its wide range of visualisation possibilities that do not require a high technical knowledge from its user. However, I’ve hard many complaints from journalists that the tool is not intuitive and hard to start with. After having been asked by <a href="">a Belarusian IT news site dev.by</a> to produce some visualisations for them, I spent about a month playing around with <a href="http://www.tableau.com/">Tableau 9.0</a>.  And so I share my conclusions and tips below.</strong></p>
 
 <p><img src="https://dl.dropboxusercontent.com/u/80627489/krystinashveda.com/Screen%20Shot%202015-05-08%20at%2013.40.33.png" alt="My map in Tableau" />
-<em>(A Tableau workbook with one of the infographics I produced for dev.by)</em></p>
+<em>(A Tableau workbook with one of my graphs for <a href="http://dev.by/">dev.by</a>)</em></p>
 
 <h2 id="to-use-or-not-to-use">To use or not to use</h2>
 
-<p>Tableau is called a tool for <strong>visual analytics</strong> because  it has an enhanced <strong>filtering/pivoting mechanism</strong> in its core. So the way to conquer it is to know your data well. I tried - it’s not going to give you a sensible outcome if you just try to click on random dimensions hoping everything can correlate with everything magically, like in other data viz tools. </p>
+<p>Tableau is called ‘a tool for <strong>visual analytics</strong>’ because  it has an enhanced <strong>filtering/pivoting mechanism</strong> in its core. Thus, to conquer you need to know your data well. Even more so because there is no automation like in other data viz tools.</p>
 
 <blockquote>
   <blockquote>
-    <p>Tableau will refuse to output even the simplest bar chart correctly if you don’t know what you are looking for. </p>
+    <p>Tableau will refuse to output even the simplest bar chart correctly if you don’t know what you are looking for - I tried.</p>
   </blockquote>
 </blockquote>
 
-<p>Actually, for a simple graph with a single value I would recommend sticking to <a href="https://datawrapper.de/">Datawrapper</a> and the like - it’s a good quick-story tool with just enough interactivity to be better than Excel charts but simple enough to do magic (automated visualisations). I often use Datawrapper for initial visual analytics, aka to see the big picture.</p>
+<p>Actually for a simple graph with a single value I’d rather stick to <a href="https://datawrapper.de/">Datawrapper</a> and the like. It’s a good ‘quick-story’ tool with just enough interactivity to be better than Excel charts but simple enough to do magic (automated visualisations). I often use Datawrapper for initial visual analytics, aka to see the general trend.</p>
 
-<p>Say, you have a dataset of all crimes committed in London in 2014 and want to find out what crime types are the most common (i.e. see how many cases of each crime type happened in 2014). So easy, hah? Datawrapper will do a bar chart automatically. But in Tableau, you first need to figure out how you build a pivot table out of the dataset, because if you simply put “crime type” into columns and number of records into rows, it will show you a useless block with a number of total crimes on top. If you also add crime type to the MARK panel - e.g. in <em>Colour</em>, it will differentiate each crime type with colour - that’s better - but within the same dull block. And only after you change the Mark type into a bar chart will it give you the bar chart you were looking for. </p>
+<p>Say, you have a dataset of crimes committed in London in 2014 and want to find out which crime types are the most common (i.e. to see how many cases of each crime type happened in 2014). Easy, hah? Datawrapper will produce a bar chart automatically, with just a couple of clicks. But with Tableau, you first need to figure out how you build a pivot table out of the dataset. If you simply put ‘crime type’ into columns and number of records into rows, it will show you a useless block with a number of total crimes on top. When you add ‘crime type’ to the MARK panel too, e.g. in <em>Colour</em>, Tableau will colour code each crime type - that’s better - but within the same dull block. And only after you change the MARK type into ‘bar chart’ it’ll give you the simple bar chart you were looking for.</p>
 
 <h2 id="the-dataset-behind-a-tableau-viz-is-king">The dataset behind a Tableau viz is king</h2>
 
