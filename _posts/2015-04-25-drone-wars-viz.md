@@ -4,11 +4,11 @@ title:  Visualising Drone Wars for the Bureau of Investigative Journalism
 permalink: tbij-drone-wars-viz
 date:   2015-04-25 16:27:00
 ---
-_On 6-17 April, I've been on a work placement at the Bureau of Investigative Journalism. The legends says, the Bureau has never taken on board any other student but Investigative MA. But everything changed on one historic day in November 2014, when I, desperate, entered their office boldly and asked for a work placement (I can do data was my arguement). They were so shocked by this shamelessness that agreed._
+_On 6-17 April, I've been doing a work placement at the Bureau of Investigative Journalism. The legend says that the Bureau had never taken on board any other student but of Investigative MA. However, everything has changed on a historic day in November 2014 when I entered their office without invitation, desperate, and asked for a work placement ("I can do data" was my argument). They were so shocked by this shamelessness and... agreed._
 
-I worked with [Jack Serie](https://twitter.com/jackserle) on Drone Wars data – an exclusive collection of information that is being gathered and updated for five years. Much has been already written based on these valuable datasets but only four major visualisations has been produced (in cooperation with other agencies). During my internship, I tried to provide a fresh digital outlook, which is generally in demands in TBIJ now, and suggested a number of visualisations.
+I worked with [Jack Serle](https://twitter.com/jackserle) on Drone Wars data – an exclusive collection of information that is being gathered and updated for five years. The Bureau journalists wrote many stories based on these unique datasets but they produced only four big visualisations (in cooperation with other agencies). The new strategy of the Bureau is to leverage digital, so I tried and provided a fresh digital outlook and produced a number of visualisations.
 
-**My visualisation of the nationalities of people killed during CIA drone attacks in Pakistan and Yemen [made it to the TBIJ website](http://www.thebureauinvestigates.com/2015/05/07/counting-cost-us-drones-local-wars-killing-local-people/).**
+**My visualisation of the nationalities of people killed during CIA drone attacks in Pakistan and Yemen [made it to TBIJ website](http://www.thebureauinvestigates.com/2015/05/07/counting-cost-us-drones-local-wars-killing-local-people/).**
 
 Here it is:
 
@@ -27,7 +27,7 @@ Here it is:
 
 ###A story in brief
 
-The map illustrates that the majority of the drone and air strike attacks were local population, despite the US officials’ claims that the highly accurate drone attacks are targeting only high profile al Qaeda fighters.
+The map illustrates that the majority of the drone and air strike attacks victims were local population, despite the US officials’ claims that the highly accurate drone attacks have been targeting only high profile al Qaeda fighters.
 
 CIA, backed by the US, has pictured their targets as international terrorists. Multinational origin of al Qaeda military men has also been proven by the Bureau of Investigative Journalism in-depth research of the strikes in Pakistan, Yemen and Somalia.
 
