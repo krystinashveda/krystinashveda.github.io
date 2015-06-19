@@ -48,7 +48,7 @@ half Belarusian half Ukrainian. I used to live in Minsk but I am currently **bas
 
 -------------------------
 
-####[Check my full CV here](http://krystinashveda.com/cv/) 
+####[Check my full CV here](http://krystinashveda.com/new-cv/) 
 ------------------------- 
 
 This blog was created to accumulate my experiences, publications, creative experiments and ideas.
